@@ -21,7 +21,7 @@ Sl. No. Apparatus Specification Quantity
 4. Verify the theoretical and practical values.
 
 ## Formula Used: 
-
+skfbksdhfhkjxif
 ## Circuit Diagram :
 
 ## Output Calculation:
